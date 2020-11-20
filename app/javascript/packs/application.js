@@ -26,7 +26,7 @@ require("channels")
 import "bootstrap";
 
 // Internal imports, e.g:
-// import { initBStepper } from '../plugins/init_b-stepper';
+// import { demoTooltip } from '../components/tooltip';
 
 
 const validFalseDemo = (e) => {
